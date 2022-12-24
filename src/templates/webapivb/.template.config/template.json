@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Tomoaki Masuda",
+    "classifications": [ "Web", "WebAPI" ],
+    "identity": "Moonmile.WebApiProject.VisualBasic",
+    "name": "Web API Project for Visual Basic",
+    "shortName": "webapivb",
+    "tags": {
+      "language": "VB",
+      "type": "project"
+    },
+    "sourceName": "webapivb",
+    "preferNameDirectory": true
+  }
