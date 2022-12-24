@@ -16,6 +16,11 @@
     <ContentTargetFolders>content</ContentTargetFolders>
     <NoWarn>$(NoWarn);NU5128</NoWarn>
     <NoDefaultExcludes>true</NoDefaultExcludes>
+    <Copyright>Moonmile</Copyright>
+    <PackageProjectUrl>https://github.com/moonmile/webapivb-template</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/moonmile/webapivb-template</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReleaseNotes>initialize</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
