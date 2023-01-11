@@ -5,11 +5,9 @@ You can make Web API project like C#.
 
 
 Install
-
 ```
 dotnet new install Moonmile.WebApiProject.VisualBasic
 ```
-
 
 Create visual basic web api project.
 ```
